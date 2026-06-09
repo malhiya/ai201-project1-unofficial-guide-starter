@@ -52,7 +52,7 @@
 
 **Why these choices fit your documents:** Most of these sources are Reddit threads where each comment is one short student opinion, so 500 characters is large enough to keep a single opinion together but small enough to avoid mixing unrelated comments. When chunks got bigger, unrelated comments got grouped together and the embeddings became less accurate. The 100 character overlap carries a little context across each boundary so an opinion that splits between two chunks can still be found.
 
-**Final chunk count:**130
+**Final chunk count:** 130
 
 ---
 
@@ -64,7 +64,7 @@
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:*all-MiniLM-L6-v2*
+**Model used:** all-MiniLM-L6-v2
 
 **Production tradeoff reflection:** If  cost was not a concern, a larger API hosted model that understands meaning more accurately would result in more accurate answers. The weakest results came from questions that were worded differently than the source text. A bigger model with a longer context length would also embed larger chunks without losing detail, which could help on broad questions. 
 
@@ -117,9 +117,9 @@
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
-**Question that failed:*How is Marc Liberatore as a professor??*
+**Question that failed:** How is Marc Liberatore as a professor??
 
-**What the system returned:* I don't know — the sources I have don't cover that.
+**What the system returned:** I don't know — the sources I have don't cover that.
 
 This is wrong since the rate-my-professors.txt file has a content with the named Professor so the summmary of the review should have been generated *
 
@@ -134,7 +134,7 @@ This is wrong since the rate-my-professors.txt file has a content with the named
 <!-- Reflect on how planning.md shaped your implementation.
      Answer both questions with at least 2–3 sentences each. -->
 
-**One way the spec helped you during implementation:**Planning.md helped shaped my implementation because I was able to go off of the plan that was created from filling it out. I was able to refer to the diagram as I moved through each step of the implementation and refer it to Claude when creating the app. And having sample questions and the expected answers helped to keep in mind how to instruct the LLM to respond.
+**One way the spec helped you during implementation:** Planning.md helped shaped my implementation because I was able to go off of the plan that was created from filling it out. I was able to refer to the diagram as I moved through each step of the implementation and refer it to Claude when creating the app. And having sample questions and the expected answers helped to keep in mind how to instruct the LLM to respond.
 
 **One way your implementation diverged from the spec, and why:** The architecture diagram first planned 1,200 character chunks with 200 character overlap, but I ended up using 500 character chunks with 100 overlap. The switch was done  because the larger chunks grouped unrelated Reddit comments together and made the embeddings less accurate, so smaller chunks gave cleaner, more relevant retrieval.
 
