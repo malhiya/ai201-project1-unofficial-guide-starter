@@ -43,11 +43,11 @@ This knowledge is valuable since these are important questions that help a stude
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:*500 characters*
+**Chunk size:** 500 characters
 
-**Overlap:*100 characters*
+**Overlap:** 100 characters
 
-**Reasoning:*Most of the sources are from reddit and the comment sizes vary, but it is safer to be 500 characters becuase it was noticed that a greater chunk size results in groupings of unrelated chunks which impacts the quality of the embeddings. It is worth preventing bad quality embedding. And 100 characters overlap should give enough context for continuity.*
+**Reasoning:** Most of the sources are from reddit and the comment sizes vary, but it is safer to be 500 characters becuase it was noticed that a greater chunk size results in groupings of unrelated chunks which impacts the quality of the embeddings. It is worth preventing bad quality embedding. And 100 characters overlap should give enough context for continuity.
 
 ---
 
@@ -59,11 +59,11 @@ This knowledge is valuable since these are important questions that help a stude
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:*all-MiniLM-L6-v2 via sentence-transformers*
+**Embedding model:** all-MiniLM-L6-v2 via sentence-transformers
 
-**Top-k:*5*
+**Top-k:** 5
 
-**Production tradeoff reflection:*Some queries can be very specific and other can be broad and having a fixed k can be simplification*
+**Production tradeoff reflection:** Some queries can be very specific and other can be broad and having a fixed k can be simplification
 
 ---
 
