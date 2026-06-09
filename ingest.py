@@ -101,4 +101,4 @@ if __name__ == "__main__":
         doc_chunks = chunk_document(doc["text"], doc["topic"])
         all_chunks.extend(doc_chunks)
     print(f"Created {len(all_chunks)} chunk(s) across {len(docs)} document(s).")
-    # print_sample_chunks(all_chunks, 5)
+    # print_sample_chunks(all_chunks, 5) #130 chunks with 500 char length and 100 overlap
