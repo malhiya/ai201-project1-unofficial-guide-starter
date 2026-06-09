@@ -121,7 +121,7 @@
 
 **What the system returned:** I don't know — the sources I have don't cover that.
 
-This is wrong since the rate-my-professors.txt file has a content with the named Professor so the summmary of the review should have been generated *
+This is wrong since the rate-my-professors.txt file has a content with the named professor so a summmary of the review should have been generated *
 
 **Root cause (tied to a specific pipeline stage):** This is a retrieval and chunking problem. In rate-my-professor.txt each professor is only a short stats block, so 500 character chunking packs several professors into one chunk, and that mixed chunk does not match a query about one specific name well enough to land in the top 5, so the model correctly says it does not know.
 
