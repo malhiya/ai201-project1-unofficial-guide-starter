@@ -156,8 +156,8 @@ This knowledge is valuable since these are important questions that help a stude
 
      Claude Code will be used for the chunking strategy to create the necessary functions like chunk_text. The answer should addresses the query and try to be precise. The domain and resources will be given as an input. The answer should have a source attribution and give more context from the different chunks that were created.  
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking:** I will give Claude Code my Documents and Chunking Strategy sections and ask it to write a loader that reads each text file and a chunking function that splits the text into 500 character chunks with 100 character overlap. I will check that the chunks keep single student opinions together and that the source name is kept with each chunk.
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:** I will give Claude Code my Retrieval Approach section and the architecture diagram and ask it to embed the chunks with all-MiniLM-L6-v2, store them in ChromaDB with source metadata, and return the top 5 chunks for a query. I will verify it by running my evaluation questions and checking that the retrieved chunks actually contain the answers.
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:** I will give Claude Code my grounding requirement and ask it to connect retrieval to the Groq llama model with a prompt that answers only from the retrieved context and shows the sources. I will then ask it to build a simple Gradio interface and confirm that answers stay grounded and say "I don't know" when the sources do not cover the question.
