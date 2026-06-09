@@ -1,0 +1,26 @@
+Source: Reddit r/umass — "For those who are CS majors... what teachers to take and who to avoid?"
+URL: https://www.reddit.com/r/umass/comments/g223hu/for_those_who_are_cs_majors_what_teachers_to_take/
+Posted by u/Coass, April 15, 2020 (4 comments)
+Question: A rising junior CS major asked which CS teachers are good ones and who to avoid. The options they were considering: Ramesh Sitaraman (CS 311), Emery Berger (CS 326), Matthew Rattigan (CS 383), David Fisher (CS 320), and Gordon Anderson (CS 320).
+
+Note: Each entry groups one professor with the student comments (and the courses mentioned) about them. Opinions are from r/umass commenters (April–August 2020).
+
+
+Professor: Matthew Rattigan
+Department: Computer Science
+Courses mentioned: CS 383
+Student comments: Strongly recommended by several students. "Rattigan is a great professor, he's very understanding and generous. He tries his hardest to teach well and everything in that class with him works in your favor generally." Another: "Rattigan is the greatest man imo." A third called him "a great guy and lecturer," but noted he "doesn't have much of a Piazza (CS online forum) presence."
+
+Professor: Gordon Anderson
+Department: Computer Science
+Courses mentioned: CS 320 (option in the original post); commenter's experience was with CS 121
+Student comments: Criticized for an intro course: "Gordon was awful for 121, cracked really cringey jokes and felt like I was watching a PBS Kids science show rather than a college lecture." The commenter wasn't sure whether he takes upper-level courses more seriously.
+
+Professor: Verts (Karl Verts)
+Department: Computer Science
+Student comments: "Avoid Verts. He's a nice guy but all teaching is outdated. His website is hilarious and also how he makes you submit homework." (Linked his all-HTML faculty page: https://people.cs.umass.edu/~verts/index.html — a reply joked, "that's pure HTML! I doubt if there's even a dash of CSS in there.")
+
+Other professors listed in the question (no student comments in this thread):
+- Ramesh Sitaraman — CS 311
+- Emery Berger — CS 326
+- David Fisher — CS 320

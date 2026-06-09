@@ -1,0 +1,23 @@
+Source: Reddit r/umass — "Accepted to UMass CS, need some advice"
+URL: https://www.reddit.com/r/umass/comments/1qh90xg/accepted_to_umass_cs_need_some_advice/
+Posted by u/FunConversation7257, January 19, 2026 (11 comments)
+Question: An incoming Fall 2026 CS student (with a full Chancellor's scholarship) asked currently-enrolled students about: the best and worst classes/professors, the workload, whether there's time for extracurricular (EC) activities, how the internship search is for UMass students, and overall whether they'd recommend UMass CS. Opinions below are from r/umass commenters (January 2026).
+
+
+Topic: Overall program quality
+Student comments: Mostly positive. A junior graduating early: "UMass CS is a pretty solid program. What you get out of it will highly depend on how much work you put in, but there are some great professors and staff… genuinely passionate about what they do and about helping students." Another: "UMass has a terrific CS program… a strong program, professors, and opportunities." One commenter noted "the UMass name won't help or hinder you to be honest, so it's up to you to make the most of it." Dissent: one user said "Stay away bro," calling undergrad CS "pretty tragic" and claiming "on average [professors] have been pretty terrible" for what they consider a top 20–25 CS school. Others pushed back: "Not true, I have had absolutely amazing professors," and "the professors themselves are decent, aside from a select few who put minimal effort into helping students."
+
+Topic: Workload and course difficulty
+Student comments: Generally described as manageable. "I personally didn't find the workload too bad outside of the core classes, which can be difficult." Specific hard classes called out: "the only real hard required courses here are 311 (CS 311) and maybe 220 (CS 220)" — plus some grad courses. Another: "200 level classes can be a b****, but overall a good program." How much time you have "depends on your own time management and how many credits you decide to take per semester."
+
+Topic: Professors (recommendations)
+Student comments: Specific professors recommended as good: Marius Minea, David Barrington, Jaime Davila, Marc Liberatore, and Timmy Richards. "Look for classes taught by Marius Minea and David Barrington." "There are many great professors who are doing industry-leading work." (One critical user maintained that on average the professors were disappointing, while several others said they'd had amazing ones — so opinions are mixed.)
+
+Topic: Time for extracurriculars (ECs) / work-life balance
+Student comments: Broad agreement there's plenty of time. "Definitely time for other ECs, great work-life balance imo." "I always had time for clubs throughout my 3 years." "There is certainly enough time for other EC activities." It comes down to time management and credit load.
+
+Topic: Internships and recruiting
+Student comments: Mixed but mostly encouraging. "The CS job market has taken a downturn in recent years but there are a bunch of CICS students who are able to find internships/jobs at great companies including Big Tech." A student focused in hardware "was able to find an internship each year and found a postgrad job as well." Resources mentioned: the CICS Careers website with an Employer Dashboard (https://www.cics.umass.edu/careers), the CICS Events page for speakers and career events (https://www.cics.umass.edu/events), and career fairs each fall and spring. Caveat: "a lot of the large corporations (Apple, Meta, Google, Microsoft, etc.) don't send recruiters to college career fairs much anymore, but graduates are still getting hired there and elsewhere." Dissent: one user claimed "most people graduate without any internships" and called the department's employer destination report "straight trash"; another replied that the destination report "for all non-T10 CS schools is probably the same."
+
+Topic: Tips for incoming students
+Student comments: "Work on passion projects, don't rely too heavily on AI, go to conferences if the chance arises." Reassurance on location: "it's not in a city but it's not that deep," and "you shouldn't need to rely on living at your university over the summer for an internship, as you can live somewhere else."

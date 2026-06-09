@@ -1,0 +1,166 @@
+Source: UMass Amherst CICS — Student Organization Events (https://www.cics.umass.edu/category/student-organization?page=0)
+
+
+Event: PIT Club Seminar — Taqi Raza (Riccio College of Engineering): Digital Wallets Insecurity and Its Impacts
+Host: Public Interest Technology (PIT) Club
+Date: Wednesday, September 24, 2025
+Time: 6:00 pm
+Description: A talk by Professor Taqi Raza (Riccio College of Engineering) on "Digital Wallets Insecurity and Its Impacts."
+
+Event: MinutemanCTF 2025
+Host: UMass Cybersecurity Club
+Date: Friday, October 17, 2025
+Time: 6:00 pm
+Description: The second edition of the UMass Cybersecurity Club's beginner-oriented hybrid/remote CTF, exclusive to UMass / Five College students.
+
+Event: Product Graveyard
+Host: UMass Product
+Date: Wednesday, October 29, 2025
+Time: 7:00 pm
+Description: Dive into products that were once alive but didn't survive, analyzing why they failed, what they did right, and how they could be reinvented.
+
+Event: Product Party
+Host: UMass Product
+Date: Wednesday, December 3, 2025
+Time: 7:00 pm
+Description: Celebrate the end of the year with the UMass Product community — hang out, unwind, and send off the seniors in style.
+
+Event: Hack(H)er413 2026
+Host: Hack(H)er413
+Date: Saturday, February 21, 2026
+Time: 9:00 am
+Description: Hack(H)er413 is coming soon. Stay tuned for more information on the schedule, events, and prizes.
+
+Event: UMass TEK x AWS Fireside Chat
+Host: UMass TEK
+Date: Friday, March 6, 2026
+Time: 7:15 pm
+Description: A fireside chat with Clarinda M., Product & GTM Strategist at AWS, sharing insights on product, strategy, and career growth in tech.
+
+Event: A Security Engineer's Journey Through Reverse Engineering, CVEs, and the Ever-Evolving Threat Landscape
+Date: Tuesday, March 24, 2026
+Time: 6:30 pm
+Description: Professor Lurene is a security engineer at Amazon, a Black Hat speaker, and a reverse engineering instructor at UMass who tracks CVEs to stay current with threats.
+
+Event: Tech on The Hot Seat
+Date: Wednesday, April 1, 2026
+Time: 7:00 pm
+Description: Tech is on trial. Come ready to talk, debate, and question everything shaping our world right now.
+
+Event: UMass Game Dev Club Spring Game Jam
+Host: UMass Game Development Club
+Date: Friday, April 17, 2026
+Time: 12:00 pm
+Description: A Game Jam where single developers or teams create a game in a limited time frame, built around a theme.
+
+Event: UMass Cybersecurity Club General Body Meeting
+Host: UMass Cybersecurity Club
+Date: Tuesday, September 9, 2025
+Time: 7:00 pm
+Description: Meet in LGRC A112 from 7:00–8:00 p.m. to learn about cybersecurity and how to become an ethical hacker.
+
+Event: Design the Robot Takeover
+Host: UMass Robotics Club
+Date: Wednesday, April 22, 2026
+Time: 7:00 pm
+Description: Will your next coffee be made by a robot? A look at the aspect and scope of robotics in the future of the world.
+
+Event: PIT Club General Interest Meeting — Introductions & Crisis Simulation Activity
+Host: Public Interest Technology (PIT) Club
+Date: Wednesday, September 10, 2025
+Time: 6:00 pm
+Description: The PIT Club's first General Interest Meeting of the semester, starting with introductions and an overview of the club, followed by a crisis simulation activity.
+
+Event: ColorStack General Information Meeting
+Host: ColorStack at UMass Amherst
+Date: Wednesday, March 11, 2026
+Time: 6:30 pm
+Description: ColorStack is dedicated to empowering Black and Hispanic students in tech while welcoming anyone who wants to build a stronger, more inclusive CS community.
+
+Event: Build Better with Notion
+Host: UMass Product
+Date: Wednesday, March 25, 2026
+Time: 7:00 pm
+Description: Learn Notion like a pro. Join UMass Product at ILC S311 for Notion AI demos, templates, workflows, and free merch.
+
+Event: WiCyS Industry Panel
+Host: Women in Cybersecurity (WiCyS) at UMass Amherst
+Date: Tuesday, March 31, 2026
+Time: 6:30 pm
+Description: A panel of industry professionals in different areas of cybersecurity talking about their day-to-day work and how they got into the field.
+
+Event: CSWomen Career Pathways with Professor Holly Yanco
+Host: CSWomen
+Date: Tuesday, April 21, 2026
+Time: 1:00 pm
+Description: An event for graduate women in CS. Professor Holly Yanco shares her career pathway. Light lunch provided.
+
+Event: MassAI Kickoff Workshop
+Host: MassAI
+Date: Wednesday, September 17, 2025
+Time: 7:00 pm
+Description: Learn about MassAI, a club for students of all majors to learn about topics in artificial intelligence and machine learning.
+
+Event: BUILD UMass Alumni Night
+Host: BUILD UMass
+Date: Monday, April 27, 2026
+Time: 6:30 pm
+Description: Hear from founders and alumni working in tech, gain insights on networking, and connect with peers across the CICS community.
+
+Event: Influencer Economy with UMass Product
+Host: UMass Product
+Date: Wednesday, September 17, 2025
+Time: 7:00 pm
+Description: How do engineers design algorithms that keep you scrolling for hours? A breakdown of how Reels and TikTok maximize your screen time.
+
+Event: UMass Product: End of Year Product Party!
+Host: UMass Product
+Date: Wednesday, May 6, 2026
+Time: 7:00 pm
+Description: An end-of-year Product Party where seniors share their favorite products and the club celebrates their time.
+
+Event: UMass Product: Hot Takes
+Host: UMass Product
+Date: Wednesday, October 1, 2025
+Time: 7:00 pm
+Description: Learn about the biggest moves in tech right now. Bring your opinions, challenge assumptions, and share your hot takes.
+
+Event: iDesign with Apple
+Date: Wednesday, October 22, 2025
+Time: 7:00 pm
+Description: Explore how Apple approaches design, innovation, and user experience, and gain insights into what makes their products stand out.
+
+Event: Tech Fusion: Exploring Robotics & STEM Pathways
+Host: Graduate Women in Business (GWIB)
+Date: Friday, December 5, 2025
+Time: 9:00 am
+Description: A half-day experience for graduate women across UMass, connecting them with robotics, innovation, and STEM opportunities.
+
+Event: BUILD UMass End-of-Semester Presentations
+Host: BUILD UMass
+Date: Monday, December 8, 2025
+Time: 6:30 pm
+Description: Project teams showcase the work they've spent the semester building.
+
+Event: PIT Design & Team Building with Emily Nutwell
+Host: Public Interest Technology (PIT) Club
+Date: Wednesday, October 8, 2025
+Time: 6:00 pm
+Description: An engaging design and team-building event led by Emily Nutwell, PIT Pathways Director, with a mix of fun, food, and collaboration.
+
+Event: Career Panel for BICS and ColorStack
+Host: Black in Computer Science (BICS) and ColorStack
+Date: Thursday, November 20, 2025
+Time: 6:00 pm
+Description: Listen to and ask questions of computer science and informatics students with industry and/or research experience. The Careers office will be present.
+
+Event: Technology Careers @ Nasdaq with Simona Zilberberg
+Date: Thursday, December 4, 2025
+Time: 6:00 pm
+Description: Simona Zilberberg shares her story of breaking into tech, going from internship to full-time, and navigating her career as a woman in tech.
+
+Event: Debug Your Dating Life
+Host: UMass Product
+Date: Wednesday, February 18, 2026
+Time: 7:00 pm
+Description: A fun, tech-inspired Valentine's event where UMass Product unpacks the secrets of dating apps and their algorithms.

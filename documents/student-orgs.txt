@@ -1,0 +1,104 @@
+Source: UMass Amherst CICS — Student Organizations (College of Information & Computer Sciences)
+
+
+=== About CICS Student Organizations ===
+Build leadership skills, make connections, and gain hands-on experience by joining one of the many active student organizations and affinity groups in CICS.
+
+Student Organization Handbook: Outlines policies and procedures for recognized student organizations, including how to create a new organization, reserve rooms, and run events.
+
+Registration and Renewal: The registration/renewal form is open and closes June 30, with priority consideration for submissions by April 15. Each March, CICS student leaders who want to create a new organization or continue an existing one must complete this form. Note: requirements change for 2026-27 — all CICS Student Organizations are expected to apply for UMass Established Student Organization (ESO) status and will have the coming year to complete the process. Petitions are available for select organizations whose structure is incompatible with ESO requirements.
+
+Mid-Year Review: Due mid-January each year for all approved CICS student organizations.
+
+
+=== Student Organizations ===
+
+Club: Association for Computing Machinery (ACM)
+The UMass Amherst chapter of the ACM is the local student chapter of ACM, the computing professional society. The group is dedicated to engaging students in computing, helping them build professional connections, and having fun. They hold events throughout the academic year, including tech talks, programming competitions, and social events.
+
+Club: Black in Computer Science
+Black in Computer Science's mission is to create a space for Black individuals in CICS and connect them with resources and people that help make their academic and personal life better.
+
+Club: BUILD UMass
+BUILD UMass aims to leverage technology for social good. By pairing passionate, driven UMass students with charities and non-profit organizations, they engineer software that does good while fostering the talents of the next generation of computer scientists dedicated to making the world a better place.
+
+Club: CICS Pride
+CICS Pride serves and supports the LGBTQIA community of CICS and promotes an inclusive learning environment in computing. The group focuses on community building and social activities. All students, faculty, and staff members, regardless of gender and sexual orientation, are welcome to join and attend events.
+
+Club: CICSoft
+CICSoft aims to serve as a vital bridge, fostering a seamless connection between the CS university experience and the dynamic demands of the industry.
+
+Club: ColorStack at UMass Amherst
+ColorStack's mission is to increase the number of Black and Latinx technologists who graduate and go on to start rewarding technical careers.
+
+Club: Community Outreach Student Team (COST)
+CICS COST works to encourage and increase computer science outreach locally. By providing volunteer opportunities and empowering student-led events, the organization helps students develop leadership skills while making a difference in their community.
+
+Club: CSWomen
+The mission of CSWomen at UMass Amherst is to build a strong community of female-identified computer science graduate students, enhance the academic and professional success of its members, promote an inclusive community within the College, highlight disparities, and celebrate the accomplishments of women in computer science.
+
+Club: Cybersecurity Club
+The UMass Cybersecurity Club educates students on the technologies, processes, and practices designed to protect networks, computers, programs, and data from attack, damage, or unauthorized access. It does so by hosting speakers, workshops, and cybersecurity competitions.
+
+Club: Game Development Club
+The UMass Game Development Club fosters a collaborative community for game enthusiasts and developers. Its mission is to explore the art and craft of game creation — from conceptual discussions and hands-on development to career growth in the industry — through regular game jams, workshops, and shared knowledge, empowering members to turn their passion for games into impactful projects and careers.
+
+Club: Girls Who Code College Loop @ UMass Amherst
+Part of the international non-profit Girls Who Code, this college loop is on a mission to bridge the gender gap in tech. It is a student-led on-campus program for college-aged students that builds belonging and community in the tech space, connecting students to each other and providing support and resources to help them thrive.
+
+Club: Google Developer Student Club
+Google Developer Student Club aims to foster a vibrant, inclusive tech community where developers can connect, learn, and grow together, supporting innovation by providing opportunities to learn, share knowledge, and collaborate.
+
+Club: Graduate Student Organization (GSO)
+The CICS Graduate Student Organization facilitates and supports activities that meet the academic, social, cultural, and professional needs of graduate students in the CICS department.
+
+Club: Hack(H)er413
+HackHer413's mission is to create a welcoming and inclusive environment for all women (cis and trans) and non-binary participants, empowering students of all ethnic, gender, socioeconomic, and educational backgrounds and identities to innovate, learn, and feel safe while doing so.
+
+Club: HackUMass
+HackUMass's mission is to create a fun, inclusive environment where students from all backgrounds can bring their wildest STEM ideas to life. Through its annual 36-hour hackathon, it fosters creativity and collaboration to empower the next generation of designers, working toward the CICS mission of "Computing for the Common Good."
+
+Club: MassAI
+UMass Amherst's premier student organization for students passionate about machine learning and artificial intelligence. Whether you're interested in learning the fundamentals or eager to work on hands-on projects, this is the place for you.
+
+Club: Mobile Development Club
+The Mobile Development Club provides an environment for students interested in mobile application development to connect, build, and design mobile applications. It aims to give students pursuing a career in mobile development (or a similar field) a platform to develop professional technical and non-technical skills.
+
+Club: National Society of Black Engineers (NSBE)
+NSBE's mission is to increase the number of culturally responsible Black engineers who excel academically, succeed professionally, and positively impact the community.
+
+Club: Public Interest Technology (PIT) Club
+The PIT Club's mission is to bridge the gap between technology, policy, and the public good. It empowers students from all majors to shape technology ethically through education, discussions, interactive workshops, and hands-on projects.
+
+Club: Students and Technology in Academics, Research, and Service (STARS)
+The STARS Computing Corps is a national alliance with a mission to broaden participation of underrepresented groups in computing within higher education. STARS aims to increase computing persistence and promote career advancement for undergraduates, graduate students, and faculty, with a focus on addressing systemic and social barriers faced by those from underrepresented groups in computing.
+
+Club: UMass Amherst Data Science Club
+A student-led organization dedicated to fostering data literacy, innovation, and collaboration. Its mission is to equip students with practical data science skills, promote interdisciplinary problem-solving, and connect members with professionals and career opportunities.
+
+Club: UMass CodeCollab
+CodeCollab is a student-led initiative that empowers UMass students to build practical coding projects collaboratively. Its mission is to bridge the gap between academic learning and real-world application by offering structured, team-based project experiences across beginner, intermediate, and advanced levels, helping students strengthen their skills, resumes, and confidence in a supportive environment.
+
+Club: UMass Cybersecurity Club
+The UMass Cybersecurity Club promotes cybersecurity education across UMass Amherst and provides students with academic, industry, and personal experiences to learn and apply cybersecurity skills.
+
+Club: UMass Design Club
+The UMass Design Club is an inclusive community that brings together creatives across campus. Its main areas of focus are graphic design, logo design, user interface & user experience (UI/UX), and product design. Its mission is to be a pillar of creativity at UMass as both an organization and a resource for students to learn and collaborate on design-related endeavors.
+
+Club: UMass Product
+Evolving from the Product Management Club, UMass Product's mission is to mold members into critical thinkers who build disruptive tech — like top-tier engineers at FAANG. It is a weekly think tank where members unravel case studies, dissect products, and discuss the latest in tech.
+
+Club: UMass Robotics Club
+The UMass Robotics Club wishes to innovate and inspire its members and the next generation of roboticists. It believes robotics can be more than tools — they can be life-changing systems that empower people, create new opportunities, and inspire others. This vision fuels its commitment to pushing boundaries despite the challenges of being a new team with limited resources.
+
+Club: UMass Quantum Computing (UMQC)
+UMass Quantum Computing fosters a community for exploring quantum computing through discussions, projects, and collaboration. It aims to bridge theory and practice, making quantum computing accessible to all.
+
+Club: Voices of Data Science
+Voices of Data Science's mission is to provide a platform to amplify the voices of data scientists and foster a robust, inclusive community of individuals who share a vision for utilizing data science ethically.
+
+Club: Women in Cybersecurity at UMass Amherst
+Women in Cybersecurity at UMass Amherst is dedicated to fostering an inclusive environment that uplifts and amplifies minority voices in the cybersecurity realm, with a particular focus on women and those who identify as women.
+
+Club: Women in Informatics and Computer Science
+Women in Informatics and Computer Science at UMass Amherst is a student organization run by undergraduate members of CICS. Established as a complement to the graduate women in computing group, it aims to foster a stronger bond between all female and non-binary members of the CICS community.
