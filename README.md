@@ -46,13 +46,13 @@
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:*500 characters*
+**Chunk size:***500 characters*
 
-**Overlap:*100 characters*
+**Overlap:**100 characters*
 
 **Why these choices fit your documents:** Most of these sources are Reddit threads where each comment is one short student opinion, so 500 characters is large enough to keep a single opinion together but small enough to avoid mixing unrelated comments. When chunks got bigger, unrelated comments got grouped together and the embeddings became less accurate. The 100 character overlap carries a little context across each boundary so an opinion that splits between two chunks can still be found.
 
-**Final chunk count:*130*
+**Final chunk count:**130
 
 ---
 
