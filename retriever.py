@@ -176,6 +176,7 @@ if __name__ == "__main__":
         "Which CS professor do students recommend, and why?",
         "Which dining hall is best for healthy eating?",
         "I don't like big crowds or noise — which residential area should I avoid?",
+        "As a CS major, will I have enough time for clubs and extracurriculars?",
     ]
 
     for query in eval_queries:
